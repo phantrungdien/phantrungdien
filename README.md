@@ -9,7 +9,7 @@
 # 🙋‍♂️About me
 	
 
-### Hi there 👋 I'm Dien, a student from VietNam
+### Hi there 👋 I'm DienT, a student from VietNam
 	
   <ul style="list-style-type:none">
 	<li> 🌱I’m currently learning React/node</li>
