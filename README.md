@@ -1,7 +1,7 @@
 <!--typing -->
 
 <h1 align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=700&color=4FC08D&center=true&vCenter=true&&size=27&width=600&lines=%F0%9F%91%8B%20Hello!+I'm+DienT!;A+Nice+Day+Starts+With+Coding!!"> 
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=700&color=4FC08D&center=true&vCenter=true&&size=27&width=600&lines=%F0%9F%91%8B%20Hello!+I'm+Dien!;A+Nice+Day+Starts+With+Coding!!"> 
 </h1>
 
 
@@ -9,7 +9,7 @@
 # 🙋‍♂️About me
 	
 
-### Hi there 👋 I'm DienT, a student from VietNam
+### Hi there 👋 I'm Dien, a student from VietNam
 	
   <ul style="list-style-type:none">
 	<li> 🌱I’m currently learning React/node</li>
