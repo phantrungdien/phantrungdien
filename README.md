@@ -22,6 +22,6 @@
 </ul>
 
 
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,next,nest,webpack,vite,redux,babel,linux,github,mysql,tailwind,sass,css&perline=18"/>
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,next,vue,nuxtjs,nest,webpack,vite,redux,babel,linux,tailwind,sass,css&perline=18"/>
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/phantrungdien/phantrungdien/assets/images/hr.gif" />
